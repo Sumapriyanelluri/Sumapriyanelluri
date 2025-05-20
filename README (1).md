@@ -4,7 +4,7 @@ A passionate Data & Business Analyst blending technical skills with business ins
 🎓 I'm currently pursuing a Master's in Engineering Management at the University of South Florida, where I focus on data-driven problem-solving using Python, SQL, Power BI, and cloud platforms like Azure & AWS.
 
 <p align="center">
-  <img src="your-gif.gif" alt="Data in Action" width="500" height="400">
+  <img src="suma.gif" alt="Suma Nelluri - Data in Action" width="500" height="400">
 </p>
 
 ## 💼 About Me  
